@@ -1,0 +1,7 @@
+node_modules/
+public/lib/
+
+
+*.workspace
+.tern-project
+.codelite/
